@@ -1,2 +1,2 @@
-# portfolio
-My portfolio website
+# dist
+ My portfolio repository
